@@ -24,4 +24,3 @@ About me
 
 
 <!USE THIS: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5>  
- 
