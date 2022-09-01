@@ -20,7 +20,7 @@ About me
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=deepankarck2.deepankarck2)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarck2&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarck2&langs_count=7&theme=tokyonight)
 <!-- For future https://github.com/anuraghazra/github-readme-stats/issues/174 -->
 
 <!USE THIS: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5>  
