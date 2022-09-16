@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Deepakar-Chakraborty
 <img src="https://user-images.githubusercontent.com/52084764/190535420-09a14e10-afdb-4af6-9442-7c0d040925e6.png" >
 
 
