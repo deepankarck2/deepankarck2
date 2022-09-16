@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Deepakar-Chakraborty
+<img src="https://user-images.githubusercontent.com/52084764/190535420-09a14e10-afdb-4af6-9442-7c0d040925e6.png" >
+
+
 About me
 
 
@@ -22,6 +25,8 @@ About me
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarck2&langs_count=7&theme=tokyonight)
 <!-- For future https://github.com/anuraghazra/github-readme-stats/issues/174 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deepankarck2&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -31,7 +36,7 @@ About me
     <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="pytohn"/> 
   </a> 
  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
