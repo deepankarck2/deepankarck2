@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   Computer Science student by day, superhero coder by night. When I'm not saving the world from buggy code and data breaches, you can find me buried in a stack of textbooks and energy drinks. 👨‍💻 Pro tip: never underestimate the power of a well-placed emoji in your commit messages. 😎
  </h4> 
 
-🔭 I'm an aspiring Software Engineer and Data Analyst.
+🔭 I'm an aspiring Software Engineer and Data Scientist.
 <br> 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deepankar-chakraborty-327691101)
  
