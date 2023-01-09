@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm an aspiring software engineer and data analyst.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,6 +15,10 @@ Here are some ideas to get you started:
  <h4 align="center">
   Computer Science student by day, superhero coder by night. When I'm not saving the world from buggy code and data breaches, you can find me buried in a stack of textbooks and energy drinks. 👨‍💻 Pro tip: never underestimate the power of a well-placed emoji in your commit messages. 😎
  </h4> 
+
+🔭 I'm an aspiring Software Engineer and Data Analyst.
+<br> 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deepankar-chakraborty-327691101)
  
 <img src="https://user-images.githubusercontent.com/52084764/190535420-09a14e10-afdb-4af6-9442-7c0d040925e6.png" >
 
