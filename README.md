@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **deepankarck2/deepankarck2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <h4 align="center">
+  Computer Science student by day, superhero coder by night. When I'm not saving the world from buggy code and data breaches, you can find me buried in a stack of textbooks and energy drinks. 👨‍💻 Pro tip: never underestimate the power of a well-placed emoji in your commit messages. 😎
+ </h4> 
+ 
 <img src="https://user-images.githubusercontent.com/52084764/190535420-09a14e10-afdb-4af6-9442-7c0d040925e6.png" >
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
