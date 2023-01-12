@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </a>
  
 <a href="https://github.com/deepankarck2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepankarck2&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="380"/>
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deepankarck2&layout=compact&exclude_repo=2022-fall-data-science&theme=algolia" width="370"/>
 </a>
   
 </p>
@@ -72,3 +72,4 @@ Here are some ideas to get you started:
 
 <!USE THIS: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5>  
 <!-- https://github.com/durgeshsamariya/awesome-github-profile-readme-templates-->
+<!-- Read Me STATS: https://github.com/anuraghazra/github-readme-stats --> 
