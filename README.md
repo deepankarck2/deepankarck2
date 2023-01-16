@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </a>
  
 <a href="https://github.com/deepankarck2">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deepankarck2&layout=compact&exclude_repo=2022-fall-data-science,447--Machine-Learning,Data-Structure&theme=algolia" width="370"/>
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deepankarck2&layout=compact&exclude_repo=National-Anthem-Analysis--Machine-Learning,2022-fall-data-science,Scheme-Custom-List-Package,Data-Structure&theme=algolia" width="370"/>
 </a>
   
 </p>
