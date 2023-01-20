@@ -30,7 +30,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=deepankarck2&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" width="450"/>
 </a>
 
-  
+   
+<a href="https://github.com/deepankarck2">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deepankarck2&layout=compact&exclude_repo=CSC-474-Assignment-2,National-Anthem-Analysis--Machine-Learning,2022-fall-data-science,Scheme-Custom-List-Package,Data-Structure&theme=algolia" width="370"/>
+</a>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
