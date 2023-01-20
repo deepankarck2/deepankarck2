@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
    
 <a href="https://github.com/deepankarck2">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deepankarck2&layout=compact&exclude_repo=CSC-474-Assignment-2,National-Anthem-Analysis--Machine-Learning,2022-fall-data-science,Scheme-Custom-List-Package,Data-Structure&theme=algolia" width="370"/>
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deepankarck2&layout=compact&hide=css,vhdl&exclude_repo=CSC-474-Assignment-2,National-Anthem-Analysis--Machine-Learning,2022-fall-data-science,Scheme-Custom-List-Package,Data-Structure&theme=algolia" width="370"/>
 </a>
 </p>
 
